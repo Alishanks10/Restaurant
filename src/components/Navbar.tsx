@@ -18,7 +18,7 @@ export default function Navbar() {
                 className="sticky top-7 z-50 flex items-center justify-between bg-gray-300"
             >
                 <div className="">
-                    <Link to="/">
+                    <Link to="/Restaurant">
                         <img src={logo} alt="logo" className="h-16 w-56 rounded-lg"></img>
                     </Link>
                 </div>
